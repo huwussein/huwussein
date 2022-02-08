@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hussein Al Dawasry
 - 👀 I’m interested in anything related to IT
-- 🌱 I’m currently learning Python and Django
+- 🌱 I’m currently learning Python, C# and Laravel
 - 📫 Mail: Dawasry.h@hotmail.com
 
 <!---
